@@ -1,22 +1,22 @@
-# 😊 Facial Emotion Detection System
+#  Facial Emotion Detection System
 
 This project is a real-time facial emotion detection system built using Python, OpenCV, and a pre-trained deep learning model. The application captures webcam video, detects faces, and classifies facial expressions into emotions like Happy, Sad, Angry, Surprised, and Neutral using a Flask web interface.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Detect human faces from webcam input in real-time
 - Classify detected faces into predefined emotion categories
 - Build a user-friendly web app using Flask
 - Demonstrate the integration of computer vision and deep learning
 
-## 🧠 Features
+##  Features
 
 - Real-time webcam emotion detection
 - Emotion prediction using a pre-trained CNN model
 - Lightweight web interface built with Flask
 - Simple, fast, and interactive
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **Python**
 - **OpenCV** – Face detection and video capture
@@ -24,15 +24,15 @@ This project is a real-time facial emotion detection system built using Python, 
 - **Flask** – Web framework for UI
 - **NumPy & Pandas** – Data processing
 
-## 😃 Emotions Detected
+##  Emotions Detected
 
-- Happy 😊  
-- Sad 😔  
-- Angry 😡  
-- Surprised 😲  
-- Neutral 😐
+- Happy 
+- Sad 
+- Angry  
+- Surprised  
+- Neutral 
 
-## 🖥️ How It Works
+##  How It Works
 
 1. Webcam captures video stream
 2. OpenCV detects faces in each frame
@@ -40,7 +40,7 @@ This project is a real-time facial emotion detection system built using Python, 
 4. The CNN model predicts the emotion
 5. Prediction is displayed in the live video feed via Flask
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ```bash
 # Clone the repository
